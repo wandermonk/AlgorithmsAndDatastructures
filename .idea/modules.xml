@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AlgorithmsPractice.iml" filepath="$PROJECT_DIR$/.idea/modules/AlgorithmsPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AlgorithmsPractice-build.iml" filepath="$PROJECT_DIR$/.idea/modules/AlgorithmsPractice-build.iml" />
+    </modules>
+  </component>
+</project>
